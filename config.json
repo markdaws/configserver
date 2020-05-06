@@ -1,0 +1,5 @@
+{
+  "Bool:foo": true,
+  "Double:bar": 0.3,
+  "Int:foobar": 1
+}

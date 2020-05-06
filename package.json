@@ -1,0 +1,13 @@
+{
+  "name": "configserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "dependencies": {
+    "serve": "^11.0.0"
+  }
+}
